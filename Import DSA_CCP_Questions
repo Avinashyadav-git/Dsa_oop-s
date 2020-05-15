@@ -10,7 +10,10 @@ Most Asked:-
   [Move Semantics , smartpointers ]
   [ Lamda ]
 
-
+C++11/14 :- 
+-lamda
+- Auto ,decltype
+- range based loop
 
 OS - 
 Virtual Memeory ,Producer consumer (conditional wait/signal)
