@@ -1,1 +1,4 @@
-Hello 
+CPP :- 
+Casting Type - { const_cas<> , reinterpret_cast<> , static_cast<> , dynamic_cast<>}
+dynamic_linking , static_linking , dynamic_loading .
+libs, shared libs , executable 
