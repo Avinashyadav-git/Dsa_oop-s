@@ -2,3 +2,14 @@ CPP :-
 Casting Type - { const_cas<> , reinterpret_cast<> , static_cast<> , dynamic_cast<>}
 dynamic_linking , static_linking , dynamic_loading .
 libs, shared libs , executable 
+Auto , decltype
+
+Most Asked:-
+  [Polymorphism Virtual - Vtable]
+  [Static,const,dynamic casting]
+  [Move Semantics]
+
+
+
+OS - 
+Virtual Memeory
